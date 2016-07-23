@@ -1,0 +1,6 @@
+name: HexCore
+main: org.hexcraft.HexCore
+version: 0.0.2
+authors: [FanaticNinja]
+description: HexCore is a plugin that contains libraries and features that other plugins make use of.
+load: startup
